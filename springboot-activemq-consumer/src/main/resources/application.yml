@@ -1,0 +1,11 @@
+spring:
+  activemq:
+    broker-url: tcp://47.104.129.104:61616
+    user: admin
+    password: admin
+    pool:
+      enabled: true
+      max-connections: 10
+server:
+  port: 8086
+
