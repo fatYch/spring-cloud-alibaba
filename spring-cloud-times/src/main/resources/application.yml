@@ -1,0 +1,9 @@
+server:
+  port: 8091
+
+
+
+times:
+  domain: app.timesgroup.cn:8089
+  api:
+    queryMeetingRoom: /MeetingRoom/Ashx/MobileInterfaceHandler.ashx?action=N0163
